@@ -10,13 +10,11 @@ export default {
 
   addTask: async(name)=>{
     console.log('addTask', name)
-    //TODO
     return {};
   },
 
   setCompleted: async(id, isComplete)=>{
     console.log('setCompleted', {id, isComplete})
-    //TODO
     return {};
   },
 
